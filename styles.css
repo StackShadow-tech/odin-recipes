@@ -1,0 +1,17 @@
+html, body {
+  background-color: #03045e;
+  color: #f8f9fa;
+}
+
+a {
+  color: #f8f9fa;
+}
+
+a:visited {
+  color: #00b4d8;
+}
+
+img {
+  border: 4px solid #f8f9fa;
+  border-radius: 6px;
+}
